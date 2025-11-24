@@ -10,7 +10,7 @@ El sistema de HelpDesk permite:}
 - Creación y listar tickets
 - Creación de nuevos departamentos y listarlos
 
-## Estructura
+## Estructura Principal (carpetas más importantes)
 ```HelpDeskU/
 ├── HelpDeskU/                       
 │   └── src/cr/ac/ucenfotec/
