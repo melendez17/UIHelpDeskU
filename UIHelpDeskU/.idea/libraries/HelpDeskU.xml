@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HelpDeskU">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../HelpDeskU/out/artifacts/HelpDeskU_jar/HelpDeskU.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
